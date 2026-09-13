@@ -1,0 +1,10 @@
+gilang
+gilang 2
+gilang 3
+gilang 4
+gilang 5
+gilang 6
+gilang 7
+C:\Users\Moba\AppData\Local\Programs\Python\Python313\python.exe "c:/coding/belajar python dengan ai cloude/minggu kedua 2/day13.File.py"
+C:\Users\Moba\AppData\Local\Programs\Python\Python313\python.exe "c:/coding/belajar python dengan ai cloude/minggu kedua 2/day13.File.py"
+gilang 8
